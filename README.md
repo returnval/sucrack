@@ -1,2 +1,1 @@
-# sucrack
-linux_32
+root@u:sucrack -help
