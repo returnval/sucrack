@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet">
+<Worksheet ss:Name="Export 2020.01.15 19-16-41">
+<Table>
+<Column ss:Width="96"/>
+<Column ss:Width="36"/>
+<Column ss:Width="50"/>
+<Column ss:Width="124"/>
+<Column ss:Width="106"/>
+<Column ss:Width="149"/>
+<Column ss:Width="102"/>
+<Column ss:Width="96"/>
+<Column ss:Width="80"/>
+<Column ss:Width="96"/>
+<Column ss:Width="60"/>
+<Column ss:Width="96"/>
+<Column ss:Width="96"/>
+<Column ss:Width="96"/>
+<Column ss:Width="96"/>
+<Column ss:Width="96"/>
+<Column ss:Width="240"/>
+<Column ss:Width="116"/>
+<Column ss:Width="116"/>
+<Row><Cell><Data ss:Type="String">109.191.130.107</Data></Cell><Cell><Data ss:Type="Number">80</Data></Cell><Cell><Data ss:Type="Number">249</Data></Cell><Cell><Data ss:Type="String">Timed out</Data></Cell><Cell></Cell><Cell><Data ss:Type="String">RT-N10.B1</Data></Cell><Cell></Cell><Cell></Cell><Cell></Cell><Cell></Cell><Cell></Cell><Cell><Data ss:Type="String">192.168.1.1</Data></Cell><Cell><Data ss:Type="String">255.255.255.0</Data></Cell><Cell></Cell><Cell></Cell><Cell></Cell><Cell></Cell><Cell></Cell><Cell></Cell></Row>
+<Row><Cell><Data ss:Type="String">109.191.136.234</Data></Cell><Cell><Data ss:Type="Number">80</Data></Cell><Cell><Data ss:Type="Number">280</Data></Cell><Cell><Data ss:Type="String">Done</Data></Cell><Cell><Data ss:Type="String">admin:admin</Data></Cell><Cell><Data ss:Type="String">D-Link DIR-300</Data></Cell><Cell><Data ss:Type="String">2C:AB:25:58:D0:AA</Data></Cell><Cell><Data ss:Type="String">intersvyaz_D0AB</Data></Cell><Cell><Data ss:Type="String">WPA2</Data></Cell><Cell><Data ss:Type="String">9043070657</Data></Cell><Cell><Data ss:Type="String">65775783</Data></Cell><Cell><Data ss:Type="String">192.168.0.1</Data></Cell><Cell><Data ss:Type="String">255.255.255.0</Data></Cell><Cell><Data ss:Type="String">109.191.136.234</Data></Cell><Cell><Data ss:Type="String">255.255.192.0</Data></Cell><Cell><Data ss:Type="String">109.191.128.1</Data></Cell><Cell><Data ss:Type="String">89.207.131.21 8.8.8.8</Data></Cell><Cell></Cell><Cell></Cell></Row>
+<Row><Cell><Data ss:Type="String">109.191.148.146</Data></Cell><Cell><Data ss:Type="Number">80</Data></Cell><Cell><Data ss:Type="Number">296</Data></Cell><Cell><Data ss:Type="String">Done</Data></Cell><Cell><Data ss:Type="String">admin:hjrtyhjk500</Data></Cell><Cell><Data ss:Type="String">HNAP Info: D-Link DIR-300 Bx, firmware: 2.06, Thu 15 Sep 2011</Data></Cell><Cell><Data ss:Type="String">F0:7D:68:A0:93:E1</Data></Cell><Cell><Data ss:Type="String">mLocal</Data></Cell><Cell><Data ss:Type="String">WPA/WPA2</Data></Cell><Cell><Data ss:Type="String">02uLKOFhjjh5005hROOT</Data></Cell><Cell><Data ss:Type="String">55362115</Data></Cell><Cell><Data ss:Type="String">192.168.0.1</Data></Cell><Cell><Data ss:Type="String">255.255.255.0</Data></Cell><Cell><Data ss:Type="String">109.191.148.146</Data></Cell><Cell><Data ss:Type="String">255.255.192.0</Data></Cell><Cell><Data ss:Type="String">109.191.128.1</Data></Cell><Cell><Data ss:Type="String">89.207.131.21 8.8.8.8</Data></Cell><Cell></Cell><Cell></Cell></Row>
+<Row><Cell><Data ss:Type="String">109.191.152.68</Data></Cell><Cell><Data ss:Type="Number">8080</Data></Cell><Cell><Data ss:Type="Number">312</Data></Cell><Cell><Data ss:Type="String">Timed out</Data></Cell><Cell></Cell><Cell><Data ss:Type="String">RT-N12VP</Data></Cell><Cell></Cell><Cell></Cell><Cell></Cell><Cell></Cell><Cell></Cell><Cell><Data ss:Type="String">192.168.1.1</Data></Cell><Cell><Data ss:Type="String">255.255.255.0</Data></Cell><Cell></Cell><Cell></Cell><Cell></Cell><Cell></Cell><Cell></Cell><Cell></Cell></Row>
+<Row><Cell><Data ss:Type="String">109.191.161.204</Data></Cell><Cell><Data ss:Type="Number">8080</Data></Cell><Cell><Data ss:Type="Number">234</Data></Cell><Cell><Data ss:Type="String">Timed out</Data></Cell><Cell></Cell><Cell><Data ss:Type="String">RT-N10.B1</Data></Cell><Cell></Cell><Cell></Cell><Cell></Cell><Cell></Cell><Cell></Cell><Cell><Data ss:Type="String">192.168.1.1</Data></Cell><Cell><Data ss:Type="String">255.255.255.0</Data></Cell><Cell></Cell><Cell></Cell><Cell></Cell><Cell></Cell><Cell></Cell><Cell></Cell></Row>
+<Row><Cell><Data ss:Type="String">109.191.200.90</Data></Cell><Cell><Data ss:Type="Number">80</Data></Cell><Cell><Data ss:Type="Number">406</Data></Cell><Cell><Data ss:Type="String">Timed out</Data></Cell><Cell></Cell><Cell><Data ss:Type="String">RT-N12B1</Data></Cell><Cell></Cell><Cell></Cell><Cell></Cell><Cell></Cell><Cell></Cell><Cell><Data ss:Type="String">192.168.1.1</Data></Cell><Cell><Data ss:Type="String">255.255.255.0</Data></Cell><Cell></Cell><Cell></Cell><Cell></Cell><Cell></Cell><Cell></Cell><Cell></Cell></Row>
+<Row><Cell><Data ss:Type="String">109.191.201.104</Data></Cell><Cell><Data ss:Type="Number">80</Data></Cell><Cell><Data ss:Type="Number">218</Data></Cell><Cell><Data ss:Type="String">Done</Data></Cell><Cell><Data ss:Type="String">&lt;empty&gt;:root</Data></Cell><Cell><Data ss:Type="String">DCS-2132LB1</Data></Cell><Cell></Cell><Cell></Cell><Cell></Cell><Cell></Cell><Cell></Cell><Cell></Cell><Cell></Cell><Cell></Cell><Cell></Cell><Cell></Cell><Cell></Cell><Cell></Cell><Cell></Cell></Row>
+</Table>
+</Worksheet>
+</Workbook>
